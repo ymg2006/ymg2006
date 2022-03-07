@@ -15,8 +15,14 @@
 <img align="left" alt="Vmware" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png" />
 <img align="left" alt="TEX" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Nuvola_mimetypes_tex.png" />
 
-<br />
-<br />
+\
+\
+\
+:zap: GitHub Stats
+\
+<img align="left" alt="ymg2006's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ymg2006&show_icons=true&hide_border=true&count_private=true" />
+\
+<img align="left" style="padding:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymg2006&layout=compact"/>
 
 <!--
 ---
@@ -29,8 +35,3 @@
 - ⚡ Fun fact: ...
 ---
 -->
-:zap: GitHub Stats
-
-<img align="left" alt="ymg2006's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ymg2006&show_icons=true&hide_border=true&count_private=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymg2006&layout=compact"/>
-
