@@ -20,7 +20,7 @@
 \
 :zap: Coding Stats
 <a href="https://#gh-dark-mode-only"><p><img align="left" alt="ymg2006's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ymg2006&show_icons=true&count_private=true&theme=aura_dark" alt="ymg2006's GitHub Stats" /></p></a>
-<a href="https://#gh-light-mode-only"><p><img align="left" alt="ymg2006's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ymg2006&show_icons=true&hide_border=true&count_private=true" /></p></a>
+<a href="https://#gh-light-mode-only"><p><img align="left" alt="ymg2006's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ymg2006&show_icons=true&count_private=true" /></p></a>
 <a href="https://#gh-dark-mode-only"><p>&nbsp;<img align="left" style="padding:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymg2006&layout=compact&theme=aura_dark" alt="ymg2006's Project Languages" /></p></a>
 <a href="https://#gh-light-mode-only"><p>&nbsp;<img align="left" style="padding:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymg2006&layout=compact"/></p></a>
 <!--
