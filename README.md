@@ -6,10 +6,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio" height="36px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img alt="Visual Studio" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="C#" height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img alt="C++" height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/Visual_Basic_(classic)" target="_blank"><img alt="VisualBasic" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img alt="Visual Studio" height="36px" src="https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/netcore.svg" /></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet" target="_blank"><img alt="ML.Net" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mldotnet.svg/512px-Mldotnet.svg.png" /></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank"><img alt="Xamarin" height="36px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" /></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML5" height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
